@@ -1,0 +1,68 @@
+📅 A 7-Day Advanced ES6 Practice Plan
+  Day 1 — map, filter, reduce
+
+    Double numbers
+
+    Remove items
+
+    Sum values
+
+  Day 2 — destructuring
+
+    Extract props
+
+    Function parameter destructuring
+
+    Rename variables
+
+  Day 3 — spread & rest
+
+    Clone objects
+
+    Merge arrays
+
+    Update state immutably
+
+    Day 4 — arrow functions & return
+
+    Implicit vs explicit return
+
+    Fix broken map/filter code
+
+  Day 5 — default parameters
+
+    Safe functions
+
+    Fallback values
+
+    Day 6 — Mini utility project
+
+    User Manager / Todo Manager
+
+    CRUD with ES6 only
+
+  Day 7 — Refactor Day
+
+    Take old code
+
+    Rewrite with ES6
+
+    Remove var, function, loops
+
+🧪 Example: A Daily ES6 Drill (Do This Now)
+
+  Try this without help (it’s okay to fail):
+
+  // TASK:
+  // Update user by id using ES6
+  // Do NOT mutate the array
+
+  const users = [
+    { id: 1, name: "A", age: 20 },
+    { id: 2, name: "B", age: 22 }
+  ];
+
+  // Write updateUserById(id, changes)
+
+
+You will struggle. That’s GOOD.
