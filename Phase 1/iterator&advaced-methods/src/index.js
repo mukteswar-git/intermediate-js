@@ -1,1 +1,7 @@
-import './for...of Loops/for__of_loop'
+// import './Iterators and Advance Methods/for__of_loop'
+// import './Iterators and Advance Methods/iterator'
+// import './Iterators and Advance Methods/generators'
+// import './Iterators and Advance Methods/array-methods'
+// import './Iterators and Advance Methods/string-method'
+// import './Iterators and Advance Methods/object-methods'
+import './Iterators and Advance Methods/practice'
