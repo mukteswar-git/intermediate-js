@@ -4,4 +4,5 @@
 // import './Week 4: Callbacks & Promises/4-promises';
 // import './Week 4: Callbacks & Promises/5-promises-with-error'
 // import './Week 4: Callbacks & Promises/6-promise-chaining'
-import './Week 4: Callbacks & Promises/7-error-handling-promise'
+// import './Week 4: Callbacks & Promises/7-error-handling-promise'
+import './Week 4: Callbacks & Promises/8-promise-static-methods'
