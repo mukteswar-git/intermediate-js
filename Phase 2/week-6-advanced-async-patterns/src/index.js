@@ -2,4 +2,5 @@
 // import './Week 6: Advanced Async Patterns/2-promise-race'
 // import './Week 6: Advanced Async Patterns/3-promise-allSettled'
 // import './Week 6: Advanced Async Patterns/4-promise-any'
-import './Week 6: Advanced Async Patterns/5-async-iterators'
+// import './Week 6: Advanced Async Patterns/5-async-iterators'
+import './Week 6: Advanced Async Patterns/6-async-generator'
