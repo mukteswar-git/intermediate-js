@@ -1,1 +1,1 @@
-import './Week 8: Closures & Scope/closures'
+import './Week 8: Closures & Scope/1-closures'
