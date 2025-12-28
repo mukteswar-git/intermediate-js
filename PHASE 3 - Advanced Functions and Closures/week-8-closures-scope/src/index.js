@@ -1,0 +1,1 @@
+import './Week 8: Closures & Scope/closures'
