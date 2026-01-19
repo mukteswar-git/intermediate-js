@@ -1,6 +1,7 @@
 # Week 22: REST APIs - Complete Intermediate Tutorial
 
 ## Table of Contents
+
 1. [Introduction to REST APIs](#introduction-to-rest-apis)
 2. [RESTful Principles](#restful-principles)
 3. [HTTP Methods](#http-methods)
